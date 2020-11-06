@@ -10,6 +10,7 @@ Der Verkauf erfolgt über einen Klick auf ein Schild.
 
 Installation:
 
+#Dieses Plugin benötigt EconomyApi und Pureperms damit es lädt!!!
 #Lade die Zip Datei herunter
 #Entpacke die Zip Datei
 #Du findest die .phar Datei in diesem Ordner
