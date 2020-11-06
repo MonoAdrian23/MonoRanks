@@ -1,0 +1,4 @@
+---
+not_enough_money: "§cDu hast nicht genug Geld um diesen Rang zu kaufen!"
+successfully_bought: "§aDu kaufst den {rank} Rang für ${price}"
+...

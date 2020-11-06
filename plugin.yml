@@ -1,0 +1,7 @@
+---
+name: MonoRanks
+version: 0.0.1
+main: MonoAdrian23\MonoRanks\Main
+api: 3.15.0
+depend: ["PurePerms", "EconomyAPI"]
+...
