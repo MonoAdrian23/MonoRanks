@@ -18,5 +18,12 @@ Installation:
 #Restarte den Server! Niemals Reloaden! Tipp von einem Profidev! Reload kann den Server lahm legen!
 #Nun erstellt das Plugin einen Ordner bei PluginData ujd du kannst die Nachrichten bearbeiten.
 
+#Wie erstelle ich einen Rangshop mit Signs?
+- Platziere ein Schild
+- Schreibe in Zeile 1 [RankShop]
+- Schreibe in Zeile 2 den Preis deines Ranges
+- Schreibe in Zeile 3 den Namen des Ranges ( Wie er in PurePerms hinterlegt ist )!
+
+
 Viel Spass mit diesem Plugin wünscht euer Mono!
 
