@@ -16,7 +16,7 @@ Installation:
 #Du findest die .phar Datei in diesem Ordner
 #Installiere sie auf deinem PocketmineMP Server im Ordner Plugins!
 #Restarte den Server! Niemals Reloaden! Tipp von einem Profidev! Reload kann den Server lahm legen!
-#Nun erstellt das Plugin einen Ordner bei PluginData ujd du kannst die Nachrichten bearbeiten.
+#Nun erstellt das Plugin einen Ordner bei PluginData und du kannst die Nachrichten bearbeiten.
 
 #Wie erstelle ich einen Rangshop mit Signs?
 - Platziere ein Schild
